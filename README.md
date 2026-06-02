@@ -39,7 +39,7 @@ The corpus was processed using [Aquilign](http://github.com/ProMeText/Aquilign),
  - **Segmentation**: Performed at the clause level using custom token classification models trained on historical data.  
   For detailed information about the segmentation guidelines, training data, and language coverage, see the [Multilingual Segmentation Dataset](https://github.com/carolisteia/multilingual-segmentation-dataset) repository, particularly its [`/docs/`](https://github.com/carolisteia/multilingual-segmentation-dataset/tree/main/docs) folder.
 
-- **Alignment**: Based on contextual embeddings generated with [LaBSE](https://github.com/google-research/bert/blob/master/multilingual.md) and processed through [Bertalign](https://github.com/bfsujason/bertalign), enabling cross-lingual comparision between the different textual witnesses.
+- **Alignment**: Based on contextual embeddings generated with [LaBSE](https://github.com/bojone/labse) and processed through [Bertalign](https://github.com/bfsujason/bertalign), enabling cross-lingual comparision between the different textual witnesses.
 
 - **Languages**:  Medieval French, Castilian, and Italian
 
