@@ -7,13 +7,13 @@
 [![Issues](https://img.shields.io/github/issues/carolisteia/lancelot-par-maints-langages)](https://github.com/carolisteia/lancelot-par-maints-langages/issues)
 [![Paper: CHR 2024](https://img.shields.io/badge/📄_Paper-CHR%202024-blue)](https://ceur-ws.org/Vol-3834/paper104.pdf)
 
-# 📜 Across Languages, Lancelot Rides  
+# Across Languages, Lancelot Rides  
 *Tracing Lancelot’s journey not only through lands and courts, but through languages, manuscripts, and time.*
 
 > An aligned multilingual corpus of the *Lancelot en prose*, processed with [Aquilign](https://github.com/ProMeText/Aquilign).
 
 
-## 📚 Description
+## Description
 
 This repository provides training and evaluation data for the study of the multilingual medieval textual tradition of the *Lancelot en prose*, including both manually corrected alignments and automatically generated outputs.
 
@@ -23,7 +23,7 @@ In addition to alignment outputs, the repository includes manual corrections and
 
 ---
 
-## 🧾 Context and Corpus Description
+## Context and Corpus Description
 
 This project is part of a broader study on **computational multilingual alignment and stemmatological analysis** of medieval texts. The case study focuses on the *Lancelot en prose*, a major prose romance composed anonymously in the early 13th century. With at least 126 surviving manuscript witnesses and numerous translations, the *Lancelot* represents one of the most widespread and complex textual traditions of medieval Europe.
 
@@ -36,7 +36,7 @@ Due to the fragmentary and unstable nature of the textual transmission, only **c
 
 ---
 
-## 🧰 Alignment Tool
+## Alignment Tool
 The corpus was processed using **Aquilign**, a multilingual alignment tool developed by the [ProMeText](https://github.com/ProMeText) team.
 
  - **Segmentation**: Performed at the clause level using custom token classification models trained on historical data.  
@@ -49,13 +49,13 @@ The corpus was processed using **Aquilign**, a multilingual alignment tool devel
 
 ---
 
-## 🔍 Visualization
+##  Visualization
 
 Example of multilingual alignment table:
 👉 [View aligned chapter](https://github.com/carolisteia/lancelot-par-maints-langages/blob/main/segmentation_alignment_results/outputs/lancelot_1_bert_new/final_result.html)
 
 
-## 🤝 Contributing to the Project
+## Contributing to the Project
 
 Contributions to the project are highly encouraged, whether they be additional data, bug fixes, or enhancements to the analysis scripts. To contribute:
 
@@ -64,7 +64,7 @@ Contributions to the project are highly encouraged, whether they be additional d
 3. **Submit a Pull Request** – After pushing your changes to your fork, open a pull request for discussion and review.
 
 
-## 🔖 Citation
+## Citation
 If you use the corpus or refer to the alignment methodology, please cite:
 
 > Gille Levenson, M., Ing, L., & Camps, J.-B. (2024).  
@@ -95,7 +95,7 @@ If you use the corpus or refer to the alignment methodology, please cite:
 ```
 
 
-## 🔗 Related Projects
+## Related Projects
 
 This repository is part of a broader ecosystem of tools and corpora developed for the study of medieval multilingual textual traditions:
 
@@ -111,7 +111,7 @@ Source texts and their segmented versions in multiple medieval Romance languages
 - [Multilingual Aegidius](https://github.com/ProMeText/Multilingual_Aegidius)  
 A parallel corpus of translations of Aegidius Romanus’ De regimine principum in Latin, Medieval Romance languages, and English, segmented and aligned using the same pipeline.
 
-## 💰 Funding
+## Funding
 
 This work benefited from national funding managed by the **Agence Nationale de la Recherche** under the *Investissements d'avenir* programme with the reference **ANR-21-ESRE-0005 (Biblissima+)**.
 
@@ -121,7 +121,7 @@ This work benefited from national funding managed by the **Agence Nationale de l
   <img src="https://github.com/user-attachments/assets/915c871f-fbaa-45ea-8334-2bf3dde8252d" alt="Biblissima+ Logo" width="600"/>
 </p>
 
-## ⚖️ Licensing
+## Licensing
 
 This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.  
 This license allows users to adapt, remix, and build upon the work for non-commercial purposes, provided that they credit the original authors and share any derivative works under the same license.
