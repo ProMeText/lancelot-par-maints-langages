@@ -48,9 +48,7 @@ The corpus was processed using [Aquilign](http://github.com/ProMeText/Aquilign),
 
 ##  Visualization
 
-Example of multilingual alignment table:
-👉 [View aligned chapter](https://github.com/carolisteia/lancelot-par-maints-langages/blob/main/segmentation_alignment_results/outputs/lancelot_1_bert_new/final_result.html)
-
+Explore the multilingual alignment results in our interactive demo [Aquilign Explorer](https://huggingface.co/spaces/ProMeText/aquilign-explorer). Select the **Lancelot reviewed corpus** to visualize the aligned segments.
 
 ## Contributing to the Project
 
